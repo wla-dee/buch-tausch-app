@@ -36,7 +36,7 @@ Alle Tabellen, Daten und Testfälle befinden sich in der SQL‑Datei.
 **pgAdmin:**  
 - *Servers → PostgreSQL → Databases*  
 - Rechtsklick → **Create Database**  
-- Name: ** dein DB-Name **
+- Name: **dein DB-Name**
 
 **oder per SQL:**  
 CREATE DATABASE **dein DB-Name**;
@@ -62,13 +62,13 @@ psql -U postgres -d dein DB-Name -f bookApp_db.sql
 - **12 Tabellen**  
 - **20 Fremdschlüssel**  
 - **143 Datensätze**  
-- CHECK‑ und UNIQUE‑Constraints  
-- XOR‑Constraint zwischen Spot und Vault  
+- **CHECK‑ und UNIQUE‑Constraints**  
+- **XOR‑Constraint zwischen Spot und Vault**
 
 ---
 
 ## GitHub‑Link
-**
+**https://github.com/wla-dee/buch-tausch-app**
 
 ---
 
