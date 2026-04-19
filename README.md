@@ -15,7 +15,8 @@ Alle Tabellen, Daten und Testfälle befinden sich in der SQL‑Datei.
 - bookApp_db.sql – vollständiges Schema + Testdaten + Testfälle  
 - Abschlussbericht (PDF)  
 - Abstract  (PDF)
-- Präsentationen (Phase 1 & 2)  
+- Phase1_Konzeption (PDF)
+- Phase2_Reflexion (PDF)
 - Screenshots  
 - ER‑Modell  
 
