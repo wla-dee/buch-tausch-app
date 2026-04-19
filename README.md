@@ -1,5 +1,5 @@
 # Buch‑Tausch-App‑Datenbank  
-# Autor: Vladyslav 
+# Autor: wla-dee
 # Kurs: Data-Mart-Erstellung in SQL (DLBDSPBDM01_D)
 # Finale Abgabe (Phase 1–3)
 
@@ -73,5 +73,5 @@ psql -U postgres -d dein DB-Name -f bookApp_db.sql
 ---
 
 ## Kontakt
-Vladyslav
+wla-dee
 
