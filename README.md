@@ -36,8 +36,8 @@ Alle Tabellen, Daten und Testfälle befinden sich in der SQL‑Datei.
 
 **pgAdmin:**  
 - *Servers → PostgreSQL → Databases*  
-- Rechtsklick → **Create Database**  
-- Name: **dein DB-Name**
+- *Rechtsklick → **Create Database***  
+- *Name: **dein DB-Name***
 
 **oder per SQL:**  
 CREATE DATABASE **dein DB-Name**;
@@ -53,7 +53,7 @@ CREATE DATABASE **dein DB-Name**;
 - Datei bookApp_db.sql laden  
 - auf **Ausführen** klicken 
 
-**oder das gleiche im Terminal: ausführen**  
+**oder das gleiche, im Terminal: ausführen**  
 psql -U postgres -d dein DB-Name -f bookApp_db.sql
 
 
